@@ -116,12 +116,20 @@
 |---------|--------|--------|
 | **Aynur** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/9c/6a/ac9c6a93-1409-cdbf-7f81-24abb2ae6a58/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/230x0w.webp" alt="Aynur Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/aynur/id6743452665) |
 | **Carspot Live** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/81/31/a7813152-c959-e7ca-efb7-1e307df5390c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/230x0w.webp" alt="Carspot Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/carspot-live/id6739596635) |
+| **Serbini Restaurant** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/eb/f1/b0ebf17f-7aee-b3d6-42f0-753f140084d4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/230x0w.webp" alt="Serbini Restaurant Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/serbini-restaurant/id6738758025) |
+| **Serbini Delivery Man** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4f/03/754f0358-2ff7-7c02-c8e5-cf8863936c19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/146x0w.webp" alt="Serbini Delivery Man Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/serbini-delivery-man/id6738761805) |
+| **Serbini Delivery** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5b/4d/7a5b4d5b-7934-478b-bbec-0da78e101b7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/146x0w.webp" alt="Serbini Delivery Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/serbini-delivery/id6445826834) |
+| **Tasweer** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e8/b6/82e8b6bb-0ba7-7c43-7a2f-d16fdf566bc9/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/230x0w.webp" alt="Tasweer Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-tasweer/id6648791379) |
+| **Tasweer Freelancer** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/24/f7/cc24f721-efb4-d358-9610-fea2378a2045/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/230x0w.webp" alt="Tasweer Freelancer Icon" align="center" width="60"/> | [تحميل](https://apps.apple.com/us/app/tasweer-freelancer/id6743863790) |
 
 ### 📱 تطبيقات على Google Play
 
 | التطبيق | الأيقونة | الرابط |
 |---------|--------|--------|
+| **LiftLyft** | <img src="https://play-lh.googleusercontent.com/trdK26XT8Xcx1crIuuVnWGLRn7KrUj6fyRum9CLTatkZ-DYIcik2AIR9pq7bZu-P7N5N=w240-h480-rw" alt="LiftLyft Icon" align="center" width="60"/> | [تحميل](https://play.google.com/store/apps/details?id=com.liftlyft.app) |
+| **LiftLyft Driver** | <img src="https://play-lh.googleusercontent.com/4OP0As5_OyFC2-3RAc5NQCM_o_sFL8I4kQNsj1WeHd9t323Fb9Wc4uhgHXAaMjD7M6M=w240-h480-rw" alt="LiftLyft Driver Icon" align="center" width="60"/> | [تحميل](https://play.google.com/store/apps/details?id=com.liftlyft.app.driver) |
 | **Aynur** | <img src="https://play-lh.googleusercontent.com/NQo5-36Q_BF_gDPrnqGtcTZkjtR9DCQ5ENiuiUXETjFXAWmbESNmHBK3beLTib8cS_n4=w240-h480-rw" alt="Aynur Icon" align="center" width="60"/> | [تحميل](https://play.google.com/store/apps/details?id=com.aynur.app) |
+| **Tasweer** | <img src="https://play-lh.googleusercontent.com/4l86BAwoke1_ubrB7k061eOGqVpIsm0ju8crjZS8BXUq10NPbfrUXKjEThkJxwUJGWc=w480-h960" alt="Tasweer Icon" align="center" width="60"/> | [تحميل](https://play.google.com/store/apps/details?id=com.tasweer.app) |
 
 ### 📦 مكتبات مفتوحة المصدر على pub.dev
 
