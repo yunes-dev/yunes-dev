@@ -17,7 +17,7 @@
 
 ## 🔷 About Me
 
-I'm a **Full Stack Software Engineer** with **2+ years of experience** building enterprise-grade web and mobile applications. Currently working at **Digital-Awareness**, where I develop financial systems, POS modules, and e-commerce platforms.
+I'm a **Full Stack Software Engineer** with **2+ years of experience** building enterprise-grade web and mobile applications. Currently working at **[Digital-Awareness](https://www.dawitsa.com/)**, where I develop financial systems, POS modules, and e-commerce platforms.
 
 I hold a **Bachelor's degree in Information Technology** from Al-Jazeera University. I'm passionate about creating scalable, maintainable solutions and integrating AI-powered features.
 
