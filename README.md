@@ -1,3 +1,12 @@
+<!-- 
+SEO Keywords / كلمات مفتاحية للبحث:
+Yunes Al-Shrmani | يونس الشرماني | Yunes Dev | yunes-dev | Yunes Al Shrmani
+Full Stack Developer | مهندس برمجيات | مطور تطبيقات | Flutter Developer
+مطور فلاتر | React Developer | Laravel Developer | Mobile App Developer
+Yemeni Developer | مبرمج يمني | Software Engineer Yemen
+yunes.dev | yunesdev | Yunes Alshrmani | يونس الشرمانى
+-->
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://yunes.dev/"><img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" /></a>
   <a href="readme_ar.md"><img src="https://img.shields.io/badge/lang-Arabic-green" alt="Arabic" /></a>
@@ -176,3 +185,7 @@ I strive to excel in software development through:
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
+
+---
+
+<sub>Yunes Al-Shrmani | يونس الشرماني | yunes.dev | Yunes Dev | Full Stack Developer | مهندس برمجيات | Flutter & React Developer</sub>

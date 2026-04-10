@@ -1,3 +1,12 @@
+<!-- 
+كلمات مفتاحية للبحث / SEO Keywords:
+يونس الشرماني | Yunes Al-Shrmani | يونس ديف | Yunes Dev | yunes-dev
+مهندس برمجيات | Full Stack Developer | مطور تطبيقات | Flutter Developer
+مطور فلاتر | مطور ريأكت | مطور لارافيل | مبرمج يمني
+Yemeni Developer | Software Engineer Yemen | يونس الشرمانى
+yunes.dev | yunesdev | Yunes Alshrmani | مطور موبايل
+-->
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://yunes.dev/"><img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" /></a>
   <a href="README.md"><img src="https://img.shields.io/badge/lang-English-blue" alt="English" /></a>
@@ -175,3 +184,7 @@
 ![خط فاصل](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
+
+---
+
+<sub>يونس الشرماني | Yunes Al-Shrmani | yunes.dev | يونس ديف | مهندس برمجيات | Full Stack Developer | مطور فلاتر وريأكت</sub>
