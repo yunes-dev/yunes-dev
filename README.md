@@ -18,7 +18,7 @@ yunes.dev | yunesdev | Yunes Alshrmani | يونس الشرمانى
 
 <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Developer" width="300"/>
 
-**_Full Stack Software Engineer | Building Web, Mobile & AI Applications_**
+**_Software Engineer | Building Web, Mobile & AI Applications Across Multiple Domains_**
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
@@ -26,9 +26,9 @@ yunes.dev | yunesdev | Yunes Alshrmani | يونس الشرمانى
 
 ## 🔷 About Me
 
-I'm a **Full Stack Software Engineer** with **2+ years of experience** building enterprise-grade web and mobile applications. Currently working at **[Digital-Awareness](https://www.dawitsa.com/)**, where I develop financial systems, POS modules, and e-commerce platforms.
+I'm a **Software Engineer** with **4+ years of experience** building web, mobile, and enterprise applications across multiple domains — from e-commerce, financial systems, and ERP, to CRM, education (LMS), and tracking & logistics systems. I currently work at **[Digital Awareness](https://www.dawitsa.com/)**, where I develop financial systems, POS modules, and e-commerce platforms.
 
-I hold a **Bachelor's degree in Information Technology** from Al-Jazeera University. I'm passionate about creating scalable, maintainable solutions and integrating AI-powered features.
+I hold a **Bachelor's degree in Information Technology** from Al-Jazeera University. I'm skilled in **system analysis, design, and technical planning**, and I integrate **AI technologies** into systems to build reliable, scalable solutions.
 
 ## 🔷 My Expertise
 
@@ -178,9 +178,9 @@ I strive to excel in software development through:
 
 ---
 
-**Yunes Al-Shrmani** | Full Stack Software Engineer
+**Yunes Al-Shrmani** | Software Engineer
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35dc5.gif" width="200" alt="Developer"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="Developer"/>
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
